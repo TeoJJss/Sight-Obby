@@ -11,6 +11,4 @@ https://www.roblox.com/games/8608725505/Sight-Obby
 
 If you would like to view how I make the game, feel free to pull my .rblx file in this repository and run with Roblox Studio. 
 
-I always welcome any suggestions and feedbacks related to my project! 
-
 Cheers!
